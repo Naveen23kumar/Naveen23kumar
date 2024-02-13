@@ -8,7 +8,7 @@
 # 💫 About Me
 
 * 🤯 Exploring Web technologies and developing software solutions.
-* 👨🏻‍🎓 Currently Learning - React, HTML, CSS, JS
+* 👨🏻‍🎓  React, HTML, CSS, JavaScript, Nodejs, and Mongo DB.
 
 
 # 🌐 Connect
